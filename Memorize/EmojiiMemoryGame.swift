@@ -1,8 +1,8 @@
 //
 //  EmojiiMemoryGame.swift
-//  Jogo da Memoria
+//  Memorize
 //
-//  Created by Maikon Ferreira on 12/11/21.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import SwiftUI

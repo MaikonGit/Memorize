@@ -1,8 +1,8 @@
 //
 //  Pie.swift
-//  Jogo da Memoria
+//  Memorize
 //
-//  Created by Maikon Ferreira on 16/11/21.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import SwiftUI

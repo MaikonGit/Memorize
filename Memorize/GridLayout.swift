@@ -2,8 +2,7 @@
 //  GridLayout.swift
 //  Memorize
 //
-//  Created by CS193p Instructor.
-//  Copyright © 2020 Stanford University. All rights reserved.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import SwiftUI

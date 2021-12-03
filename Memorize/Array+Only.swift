@@ -1,8 +1,8 @@
 //
 //  Array+Only.swift
-//  Jogo da Memoria
+//  Memorize
 //
-//  Created by Maikon Ferreira on 15/11/21.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import Foundation

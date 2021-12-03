@@ -1,8 +1,8 @@
 //
-//  JG da memoria coracao.swift
-//  Jogo da Memoria
+//  MemorizeBrain.swift
+//  Memorize
 //
-//  Created by Maikon Ferreira on 12/11/21.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import Foundation

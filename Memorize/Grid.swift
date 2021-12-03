@@ -1,8 +1,8 @@
 //
 //  Grid.swift/Users/maikonferreira/Desktop/GridLayout.swift
-//  Jogo da Memoria
+//  Memorize
 //
-//  Created by Maikon Ferreira on 14/11/21.
+//  Created by Maikon Ferreira on 03/12/21.
 //
 
 import SwiftUI
